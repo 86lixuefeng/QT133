@@ -1,0 +1,61 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/bg_main.jpg</file>
+        <file>image/icon_fire.png</file>
+        <file>image/icon_overload.png</file>
+        <file>image/xiao_logo.png</file>
+        <file>image/ic_no_smoking.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>FreeSans.ttf</file>
+    </qresource>
+    <qresource prefix="/weather">
+        <file>image/ic_weather_cloud.png</file>
+        <file>image/ic_weather_overcast.png</file>
+        <file>image/ic_weather_snow.png</file>
+        <file>image/rain.png</file>
+        <file>image/storm.png</file>
+    </qresource>
+    <qresource prefix="/floor">
+        <file alias="0">image/concept1_show_floor_0.png</file>
+        <file alias="1">image/concept1_show_floor_1.png</file>
+        <file alias="2">image/concept1_show_floor_2.png</file>
+        <file alias="3">image/concept1_show_floor_3.png</file>
+        <file alias="4">image/concept1_show_floor_4.png</file>
+        <file alias="5">image/concept1_show_floor_5.png</file>
+        <file alias="6">image/concept1_show_floor_6.png</file>
+        <file alias="7">image/concept1_show_floor_7.png</file>
+        <file alias="8">image/concept1_show_floor_8.png</file>
+        <file alias="9">image/concept1_show_floor_9.png</file>
+        <file alias="a">image/concept1_show_floor_a.png</file>
+        <file alias="b">image/concept1_show_floor_b.png</file>
+        <file alias="c">image/concept1_show_floor_c.png</file>
+        <file alias="d">image/concept1_show_floor_d.png</file>
+        <file alias="e">image/concept1_show_floor_e.png</file>
+        <file alias="f">image/concept1_show_floor_f.png</file>
+        <file alias="g">image/concept1_show_floor_g.png</file>
+        <file alias="h">image/concept1_show_floor_h.png</file>
+        <file alias="i">image/concept1_show_floor_i.png</file>
+        <file alias="j">image/concept1_show_floor_j.png</file>
+        <file alias="k">image/concept1_show_floor_k.png</file>
+        <file alias="l">image/concept1_show_floor_l.png</file>
+        <file alias="m">image/concept1_show_floor_m.png</file>
+        <file alias="n">image/concept1_show_floor_n.png</file>
+        <file alias="o">image/concept1_show_floor_o.png</file>
+        <file alias="p">image/concept1_show_floor_p.png</file>
+        <file alias="q">image/concept1_show_floor_q.png</file>
+        <file alias="r">image/concept1_show_floor_r.png</file>
+        <file alias="s">image/concept1_show_floor_s.png</file>
+        <file alias="t">image/concept1_show_floor_t.png</file>
+        <file alias="u">image/concept1_show_floor_u.png</file>
+        <file alias="v">image/concept1_show_floor_v.png</file>
+        <file alias="w">image/concept1_show_floor_w.png</file>
+        <file alias="x">image/concept1_show_floor_x.png</file>
+        <file alias="y">image/concept1_show_floor_y.png</file>
+        <file alias="z">image/concept1_show_floor_z.png</file>
+    </qresource>
+    <qresource prefix="/arrow">
+        <file>image/downa.png</file>
+        <file>image/upa.png</file>
+    </qresource>
+</RCC>
